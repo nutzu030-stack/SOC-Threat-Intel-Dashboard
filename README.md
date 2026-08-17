@@ -12,8 +12,8 @@ Automated Risk Categorization: Automatically assigns risk levels (Critical, High
 
 Chronological Ordering: Sorts records sequentially across a 14-day timeline for realistic time-series data analysis
 ### Screenshots
-##[Terminal Output]
+## Terminal Output
 <img src="screenshots/Screenshot 2026-08-17 131326.png" alt="" width="100%" />
-##[CSV Data Output]
+## CSV Data Output
 <img src="screenshots/Screenshot 2026-08-11 140645.png" alt="" width="100%" />
 
