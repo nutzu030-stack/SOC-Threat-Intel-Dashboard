@@ -1,7 +1,7 @@
-SOC Threat Intelligence Telemetry Generator
+### SOC Threat Intelligence Telemetry Generator
 A Python-based utility designed to simulate realistic Security Operations Center (SOC) threat intelligence telemetry and export it into structured CSV format. This dataset serves as a foundational data source for security dashboards, threat hunting practice, and SIEM data visualization labs.
 
-Features
+### Features
 Realistic Threat Simulation: Generates synthetic Indicators of Compromise (IoCs) including IPv4 addresses, domains, and SHA256 file hashes.
 
 Framework Integration: Maps generated threats directly to the MITRE ATT&CK framework (Tactics and Techniques).
