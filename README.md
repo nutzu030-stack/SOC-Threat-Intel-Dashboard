@@ -10,6 +10,8 @@ Security Scoring: Incorporates simulated metrics mirroring real-world threat fee
 
 Automated Risk Categorization: Automatically assigns risk levels (Critical, High, Medium, Low) and investigation statuses based on threat scores.
 
-Chronological Ordering: Sorts records sequentially across a 14-day timeline for realistic time-series data analysis.
-Screenshot 2026-08-11 140645.png
-screenshots/Screenshot 2026-08-17 131326.png
+Chronological Ordering: Sorts records sequentially across a 14-day timeline for realistic time-series data analysis
+### Screenshots
+<img src="screenshots/Screenshot 2026-08-17 131326.png" alt="" width="100%" 
+<img src="screenshots/Screenshot 2026-08-11 140645.png" alt="" width="100%" />
+
