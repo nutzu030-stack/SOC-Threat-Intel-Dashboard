@@ -1,251 +1,251 @@
 timestamp,indicator,indicator_type,country,country_code,abuse_confidence_score,vt_malicious_count,risk_level,mitre_id,mitre_technique,mitre_tactic,status
-2026-07-28 13:54:50,3099def9ac94188b5372dc92767755a6f84a53de983de977c6a28671133e8804,File Hash (SHA256),Brazil,BR,19,72,Critical,T1110,Brute Force,Credential Access,Contained
-2026-07-28 17:17:50,login-verify-update.com,Domain,Russia,RU,53,58,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-07-28 18:20:50,update-m365-portal.org,Domain,China,CN,94,53,Critical,T1566,Phishing,Initial Access,Contained
-2026-07-28 19:00:50,update-m365-portal.org,Domain,Netherlands,NL,53,18,High,T1566,Phishing,Initial Access,Investigating
-2026-07-28 19:07:50,login-verify-update.com,Domain,China,CN,86,52,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-07-28 23:33:50,c153592479c943cf0276ff3512c37a0c80fd03c34980bc61042e5a1d19df13fa,File Hash (SHA256),Russia,RU,9,17,High,T1059,Command and Scripting Interpreter,Execution,Investigating
-2026-07-29 01:35:50,6a45a2629483b2a4841c40e33590985793645648b1bb51f5fc1ca0fc7b3a5645,File Hash (SHA256),North Korea,KP,61,52,Critical,T1566,Phishing,Initial Access,Contained
-2026-07-29 01:44:50,80.15.95.220,IPv4,Germany,DE,19,60,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-07-29 02:34:50,41a06b5ba8497c76decac0c2ff82a837569fea5b76924cede61aab8fb11eed56,File Hash (SHA256),China,CN,63,29,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-07-29 03:22:50,219.76.242.153,IPv4,Russia,RU,100,9,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-07-29 03:31:50,update-m365-portal.org,Domain,United Kingdom,GB,50,51,Critical,T1566,Phishing,Initial Access,Contained
-2026-07-29 06:40:50,9e0608344fb98146812c150f5caed15c408e60b0af98d26f182a65b113080b23,File Hash (SHA256),North Korea,KP,85,15,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-07-29 06:49:50,a5ad67094c41adef78a7bcb823837945e48077900877584c64b56f2121dc9727,File Hash (SHA256),United States,US,52,35,Critical,T1110,Brute Force,Credential Access,Active Investigation
-2026-07-29 07:27:50,176.149.120.75,IPv4,China,CN,94,73,Critical,T1566,Phishing,Initial Access,Contained
-2026-07-29 09:39:50,bad-actor-c2.xyz,Domain,United States,US,61,60,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-07-29 10:29:50,4e0c9eaa824d75aaf91168ab91da774d130264d016ede9f3158f543715ef06b1,File Hash (SHA256),China,CN,94,41,Critical,T1110,Brute Force,Credential Access,Contained
-2026-07-29 11:00:50,b91fd4d3b2c16ec221a338216591610b70b70bb42050b418cc5fa8bf5f39585b,File Hash (SHA256),China,CN,88,27,Critical,T1566,Phishing,Initial Access,Contained
-2026-07-29 12:17:50,secure-account-auth.net,Domain,Netherlands,NL,19,9,Medium,T1110,Brute Force,Credential Access,Monitored
-2026-07-29 13:10:50,b08be5c1e3ef0d17eb35da2d60e72cd7eb4b310c91dc063cc357581519733213,File Hash (SHA256),Netherlands,NL,6,68,Critical,T1110,Brute Force,Credential Access,Active Investigation
-2026-07-29 13:46:50,aca2517df24ea43cb38ea06bfc0e14628c619932a42feb5112d718652c0fb232,File Hash (SHA256),Germany,DE,33,13,High,T1059,Command and Scripting Interpreter,Execution,Investigating
-2026-07-29 19:29:50,13fc77d7b27b0c066a893c29301da60367aba48550547978de53a8856e75a71f,File Hash (SHA256),Netherlands,NL,42,31,Critical,T1110,Brute Force,Credential Access,Contained
-2026-07-29 19:48:50,25.134.235.21,IPv4,Netherlands,NL,25,14,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-07-29 20:28:50,2471d1dd228210a4767a0362e7ceb5faac89191cd757b5a07ebc0f84fe20eff2,File Hash (SHA256),North Korea,KP,89,28,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-07-29 21:31:50,195.250.196.86,IPv4,Germany,DE,39,17,High,T1110,Brute Force,Credential Access,Investigating
-2026-07-29 21:54:50,32.127.149.188,IPv4,North Korea,KP,64,41,Critical,T1110,Brute Force,Credential Access,Contained
-2026-07-29 22:26:50,221.30.93.133,IPv4,North Korea,KP,94,32,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-07-29 23:17:50,1c971db0039d26ba2bf24eda3390ad9baaefcac92296350447e5dc6700709128,File Hash (SHA256),Iran,IR,55,35,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-07-30 00:55:50,f9b943f93b4005bd7375ff7dcf3e8abf8d4839c85131058a94a03706db800cd1,File Hash (SHA256),China,CN,78,74,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-07-30 03:39:50,f90df660fb12918dab62cff184cd93a7021e6375f0cfcdb5714fc7eaed48ce8f,File Hash (SHA256),China,CN,1,29,High,T1059,Command and Scripting Interpreter,Execution,Investigating
-2026-07-30 04:46:50,login-verify-update.com,Domain,Iran,IR,57,42,Critical,T1110,Brute Force,Credential Access,Contained
-2026-07-30 04:54:50,login-verify-update.com,Domain,China,CN,6,63,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-07-30 09:31:50,57.111.100.227,IPv4,Germany,DE,26,42,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-07-30 10:09:50,33.206.92.251,IPv4,North Korea,KP,57,6,High,T1566,Phishing,Initial Access,Investigating
-2026-07-30 13:20:50,143.151.34.54,IPv4,United States,US,54,5,High,T1059,Command and Scripting Interpreter,Execution,Investigating
-2026-07-30 14:27:50,login-verify-update.com,Domain,Netherlands,NL,84,56,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-07-30 21:05:50,681748c3667c680fbbef285e1364cac5e7e87add43861671e51d23d4aa4261ee,File Hash (SHA256),Russia,RU,76,37,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-07-30 22:33:50,5819df79a345cd9440f8f4541761aba1a6ef731859222fddd7ce579d17dc6300,File Hash (SHA256),Russia,RU,40,26,High,T1071,Application Layer Protocol,Command and Control,Investigating
-2026-07-30 22:36:50,193.199.30.41,IPv4,Brazil,BR,47,64,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-07-31 00:30:50,129.198.65.64,IPv4,North Korea,KP,32,13,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-07-31 04:29:50,196.227.35.9,IPv4,Brazil,BR,19,31,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-07-31 05:17:50,45.209.251.152,IPv4,Germany,DE,16,13,High,T1566,Phishing,Initial Access,Investigating
-2026-07-31 07:03:50,be0b39d18a93b34e98ee43638d7c4407813643d624431bf22d8a2296d0c32368,File Hash (SHA256),United Kingdom,GB,90,25,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-07-31 09:35:50,6207dcbd2e830d48069ae3cc04b2589a82533be3c5c6127b3f11ecdf180cfd2a,File Hash (SHA256),Germany,DE,52,30,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-07-31 13:04:50,22.145.24.90,IPv4,Netherlands,NL,41,52,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-07-31 13:34:50,login-verify-update.com,Domain,Russia,RU,56,2,High,T1059,Command and Scripting Interpreter,Execution,Investigating
-2026-07-31 15:07:50,69.213.34.161,IPv4,North Korea,KP,47,73,Critical,T1110,Brute Force,Credential Access,Active Investigation
-2026-07-31 16:25:50,login-verify-update.com,Domain,United Kingdom,GB,99,52,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-07-31 18:21:50,151.7.66.108,IPv4,China,CN,13,56,Critical,T1110,Brute Force,Credential Access,Contained
-2026-07-31 18:30:50,125.130.117.223,IPv4,United Kingdom,GB,100,66,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-07-31 19:01:50,b6857020f66e17903428999d80a32eb8d2c04e99e535f8486c10473d4cd2de23,File Hash (SHA256),China,CN,64,41,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-07-31 20:16:50,123.118.62.68,IPv4,United States,US,9,42,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-01 03:18:50,125.28.254.230,IPv4,Germany,DE,74,35,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-01 03:27:50,secure-account-auth.net,Domain,North Korea,KP,34,62,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-01 06:15:50,078d7340eee7b6b3023f38ae13422642f677714bb3d7aed23cd051988056f4e2,File Hash (SHA256),Germany,DE,4,72,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-01 06:49:50,33.25.24.103,IPv4,China,CN,4,46,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-01 11:17:50,a353dbb3d0ca59868e9fbd4f52556b864d648c4712ab8bd171bac9cffb5c920f,File Hash (SHA256),Iran,IR,17,64,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-01 11:35:50,99e64283da68e228401ff036aa9f39daaa2dd78718289d11f5c8958b3fc4cd11,File Hash (SHA256),Netherlands,NL,45,5,High,T1110,Brute Force,Credential Access,Investigating
-2026-08-01 13:28:50,login-verify-update.com,Domain,Russia,RU,81,12,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-01 15:57:50,31.216.112.27,IPv4,Netherlands,NL,5,33,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-01 16:18:50,bad-actor-c2.xyz,Domain,United States,US,13,72,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-01 18:31:50,babbd64772d4ea0f9deef0efacb3b2db61958946c51fa1ceef00ad3e4f7e1460,File Hash (SHA256),United States,US,74,42,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-01 19:00:50,253bbd560939eb6374021d5d7fb7031730baa6f0cbcaba30e42f9e32faa3b79a,File Hash (SHA256),United States,US,17,75,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-01 19:55:50,223.17.214.99,IPv4,Germany,DE,36,41,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-01 20:43:50,9c7a21925006dd3544ba12ef93c9d27f1fd5e1e1d6597c915867cf40b82b80d8,File Hash (SHA256),Brazil,BR,29,57,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-01 21:47:50,47.208.218.185,IPv4,Iran,IR,56,2,High,T1566,Phishing,Initial Access,Investigating
-2026-08-02 00:32:50,013c04ff72961a634afdaceacc55880a681f1ef1bf782d247b19864423461bd1,File Hash (SHA256),Germany,DE,8,54,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-02 03:19:50,77.84.230.203,IPv4,Brazil,BR,92,12,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-02 07:19:50,11d3f72386786572f33e742e85436aa95dba4c70d0f6bfe52a63aa4c1563f739,File Hash (SHA256),United States,US,28,12,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-02 07:56:50,71522a256d1300c119020520a7a347522198e44c770b63b12069fe506b042b4b,File Hash (SHA256),Russia,RU,81,61,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-02 08:11:50,49.41.149.233,IPv4,United States,US,58,46,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
-2026-08-02 09:30:50,secure-account-auth.net,Domain,Netherlands,NL,46,72,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-02 10:49:50,117.145.190.20,IPv4,Russia,RU,13,16,High,T1071,Application Layer Protocol,Command and Control,Investigating
-2026-08-02 11:47:50,secure-account-auth.net,Domain,Brazil,BR,81,53,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-02 12:55:50,115.70.144.125,IPv4,Russia,RU,73,31,Critical,T1110,Brute Force,Credential Access,Active Investigation
-2026-08-02 13:13:50,111.82.28.177,IPv4,Netherlands,NL,35,11,High,T1110,Brute Force,Credential Access,Investigating
-2026-08-02 14:43:50,b11a00eb5a7e54c7188ff6b15d1ef5f420ddd3a60b5d51af70707749d7f03e54,File Hash (SHA256),Brazil,BR,76,25,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-02 14:53:50,login-verify-update.com,Domain,Iran,IR,36,31,Critical,T1110,Brute Force,Credential Access,Active Investigation
-2026-08-02 15:47:50,bad-actor-c2.xyz,Domain,Brazil,BR,57,31,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-02 16:11:50,64270d9714d77e871a9eba34e0ac709146af8c97824f9bde3837ac8a04a88fc1,File Hash (SHA256),Brazil,BR,43,7,High,T1566,Phishing,Initial Access,Investigating
-2026-08-02 16:37:50,7.81.29.71,IPv4,North Korea,KP,57,13,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-02 17:13:50,5548f76e8fa4fefe396a72db750e28ccab662bc07e9b6ae276efce6e28b5743a,File Hash (SHA256),China,CN,95,15,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-02 18:10:50,151.88.253.14,IPv4,Russia,RU,91,9,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-02 18:46:50,9616cdb614106e6c7b763c6ad4dc24a4a1b80fa809d796bcad1b7ae52169304d,File Hash (SHA256),United States,US,28,60,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-02 19:13:50,183.138.125.5,IPv4,Germany,DE,38,47,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-02 21:48:50,191.221.98.75,IPv4,Netherlands,NL,76,11,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-03 00:02:50,update-m365-portal.org,Domain,North Korea,KP,67,4,High,T1566,Phishing,Initial Access,Investigating
-2026-08-03 00:28:50,191.87.246.19,IPv4,United Kingdom,GB,86,32,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-03 01:50:50,2c41adcc42644d3f0ddb054d839e7c4e5733f71fd0244242e2303d73f6114d3d,File Hash (SHA256),Germany,DE,34,74,Critical,T1566,Phishing,Initial Access,Active Investigation
-2026-08-03 03:14:50,207.234.118.18,IPv4,Brazil,BR,3,75,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-03 03:33:50,login-verify-update.com,Domain,Iran,IR,79,14,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-03 06:08:50,013f102fb4335787b187294158cac54dd80051b46f96b8e7b61793d507210463,File Hash (SHA256),United Kingdom,GB,33,66,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-03 07:16:50,219.160.220.105,IPv4,Iran,IR,59,7,High,T1110,Brute Force,Credential Access,Investigating
-2026-08-03 07:19:50,64.158.184.7,IPv4,Netherlands,NL,8,11,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-03 09:35:50,update-m365-portal.org,Domain,Iran,IR,72,50,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-03 09:54:50,update-m365-portal.org,Domain,China,CN,94,4,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-03 10:29:50,1efce8bb2d5c64964110ce917d6fd874e3f9bd89bb1a706ffe4caa9b7b5d5a3e,File Hash (SHA256),United Kingdom,GB,6,5,Medium,T1071,Application Layer Protocol,Command and Control,Monitored
-2026-08-03 16:36:50,180.195.163.158,IPv4,North Korea,KP,17,52,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-03 19:01:50,70.185.247.68,IPv4,United Kingdom,GB,86,51,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-03 19:11:50,login-verify-update.com,Domain,Brazil,BR,100,55,Critical,T1110,Brute Force,Credential Access,Active Investigation
-2026-08-03 19:34:50,bc9135e654eaa5d279884be1cb181521baf48b039013db4f0920ab2e58a7d293,File Hash (SHA256),Germany,DE,73,65,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
-2026-08-03 20:03:50,update-m365-portal.org,Domain,United States,US,43,10,High,T1566,Phishing,Initial Access,Investigating
-2026-08-03 20:30:50,675616c015aee892c166c5529633fdfa0c7cf236f1b314acc5e741116ecb19d0,File Hash (SHA256),Netherlands,NL,92,30,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-03 22:37:50,bad-actor-c2.xyz,Domain,Germany,DE,7,25,High,T1071,Application Layer Protocol,Command and Control,Investigating
-2026-08-03 22:58:50,98.14.217.187,IPv4,Netherlands,NL,4,75,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-03 23:18:50,bad-actor-c2.xyz,Domain,United States,US,80,59,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-04 01:52:50,f4344ae907d3114f80865f27285779dce8d17607e721e7c3b1fd94f843192cf8,File Hash (SHA256),China,CN,28,43,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-04 03:41:50,158.236.52.79,IPv4,Germany,DE,88,8,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-04 04:05:50,207.218.108.217,IPv4,United Kingdom,GB,5,21,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-04 04:23:50,update-m365-portal.org,Domain,Germany,DE,48,58,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-04 04:27:50,71.111.89.124,IPv4,United Kingdom,GB,65,11,High,T1566,Phishing,Initial Access,Investigating
-2026-08-04 05:54:50,75.0.107.79,IPv4,Russia,RU,68,72,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-04 05:59:50,196.254.8.195,IPv4,Russia,RU,51,55,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-04 09:42:50,update-m365-portal.org,Domain,North Korea,KP,35,8,Medium,T1110,Brute Force,Credential Access,Monitored
-2026-08-04 13:51:50,secure-account-auth.net,Domain,Netherlands,NL,66,30,High,T1059,Command and Scripting Interpreter,Execution,Investigating
-2026-08-04 14:05:50,bad-actor-c2.xyz,Domain,Brazil,BR,76,11,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-04 14:08:50,a24dd7f6ea5cda4f06188c519042c2309ecfb08fae0d3f2c8bd7051a61496092,File Hash (SHA256),Netherlands,NL,84,5,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-04 16:23:50,297f103724dccfc5219e593422c8c974ffd355d89090956a25e25e73d515d27d,File Hash (SHA256),United Kingdom,GB,24,42,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
-2026-08-04 18:09:50,login-verify-update.com,Domain,Iran,IR,1,48,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-05 01:39:50,31.173.4.62,IPv4,Brazil,BR,71,58,Critical,T1566,Phishing,Initial Access,Active Investigation
-2026-08-05 02:03:50,bfecf50c19d800c6bb4cc1fbdd13c25901eb0e07b775a4b51cb182302d7833ca,File Hash (SHA256),United States,US,0,50,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-05 02:18:50,bad-actor-c2.xyz,Domain,Netherlands,NL,41,45,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-05 02:33:50,login-verify-update.com,Domain,Netherlands,NL,33,3,Medium,T1003,OS Credential Dumping,Credential Access,Monitored
-2026-08-05 03:50:50,e8b40e98d5096d660fee60620d954054c37ea30479d827396ac9ee9ff04dd968,File Hash (SHA256),Brazil,BR,74,57,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-05 03:58:50,171.116.196.130,IPv4,Netherlands,NL,99,34,Critical,T1566,Phishing,Initial Access,Active Investigation
-2026-08-05 04:10:50,f10336ae32911c40cde4c0c811972c87867a83ef8d0fc11116d5a30ca957f324,File Hash (SHA256),Russia,RU,44,28,High,T1566,Phishing,Initial Access,Investigating
-2026-08-05 04:18:50,aedddcd8ee3bd172b435bcd780e0f2824460a0e6adcc995317b082a4bd8787a1,File Hash (SHA256),Germany,DE,38,55,Critical,T1566,Phishing,Initial Access,Active Investigation
-2026-08-05 04:21:50,00928b4ea474a09c34346d12e6e78f4935bcb4a4676fb52faef515f6df403be4,File Hash (SHA256),United States,US,14,50,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-05 05:18:50,3225e6a199c3e34e3b46763ec1c0f202b9de046058fa075ee62bbdf33b1507d5,File Hash (SHA256),Iran,IR,74,63,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-05 05:47:50,683ca991ada988e3b3ead1a80e9ca06f5401aa71a7603bc5ad219e70428f630e,File Hash (SHA256),North Korea,KP,20,61,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-05 06:01:50,198.43.206.125,IPv4,China,CN,51,41,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
-2026-08-05 06:20:50,c1e0a51b05542dacf2a6ebcadfb608aebb61de32c4edab7f9b6f4cb74a9f1734,File Hash (SHA256),United States,US,87,53,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-05 06:51:50,8c30ceb5a89f37f7fb1a7d9724401f41bf39d94960c326dbc5dab6d0b772e5c3,File Hash (SHA256),United Kingdom,GB,91,65,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-05 09:41:50,dbdbd83133736e1f43fd9e2467b8fa6e15aeb9f1c8eacbed9545b673ea4dd462,File Hash (SHA256),Netherlands,NL,77,9,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-05 10:36:50,8dd6db1d5814ba606a0c5c1bbd93cc04990152397303711e84c491c7bda785c1,File Hash (SHA256),Brazil,BR,81,14,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-05 12:40:50,35d9e1d10810833ed9dadd5237018a812852d56587f143d2670026e16b589f4b,File Hash (SHA256),United Kingdom,GB,17,54,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-05 13:24:50,19965083f8c703fa91300129a5ff538d9eab5adef50e3228cf7079359650f0e6,File Hash (SHA256),United Kingdom,GB,56,39,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-05 15:56:50,116.184.188.129,IPv4,Russia,RU,12,48,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-05 16:54:50,login-verify-update.com,Domain,Germany,DE,52,18,High,T1059,Command and Scripting Interpreter,Execution,Investigating
-2026-08-05 18:25:50,960442df36a465aefbaf88d60b5cb14e8109dc63eeb61603d05c526cb340633b,File Hash (SHA256),North Korea,KP,35,68,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-05 19:00:50,30.81.48.68,IPv4,Russia,RU,50,43,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-05 19:06:50,secure-account-auth.net,Domain,Netherlands,NL,100,64,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-05 19:44:50,19613c8f386452b828384ab4a51b9bfb5798e37adea10f6dd945be18f2c29ee3,File Hash (SHA256),United States,US,79,11,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-05 19:48:50,login-verify-update.com,Domain,North Korea,KP,54,0,High,T1071,Application Layer Protocol,Command and Control,Investigating
-2026-08-05 19:58:50,3ee469d6a1a778155c165914185e86221866da601617332ebd966fe966744c9e,File Hash (SHA256),United Kingdom,GB,4,49,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
-2026-08-05 22:23:50,02cc67b3f7383bbf6fd3f401fe87193aae7e45f2cd887be406a8ab33ce9c8e00,File Hash (SHA256),Brazil,BR,25,41,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-05 23:24:50,update-m365-portal.org,Domain,Germany,DE,97,53,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-05 23:35:50,secure-account-auth.net,Domain,China,CN,28,39,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-05 23:41:50,5ecacb55bb5a75b6260f5c32ffe0a3498b5e9d4cc85cc2c8ece3167267431d1f,File Hash (SHA256),China,CN,73,2,High,T1566,Phishing,Initial Access,Investigating
-2026-08-06 00:26:50,188.6.41.216,IPv4,United States,US,97,6,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-06 01:16:50,16.164.85.208,IPv4,United Kingdom,GB,82,8,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
-2026-08-06 01:20:50,secure-account-auth.net,Domain,Netherlands,NL,58,4,High,T1059,Command and Scripting Interpreter,Execution,Investigating
-2026-08-06 01:28:50,95.22.101.103,IPv4,Netherlands,NL,51,52,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-06 03:27:50,update-m365-portal.org,Domain,United States,US,13,29,High,T1110,Brute Force,Credential Access,Investigating
-2026-08-06 03:39:50,secure-account-auth.net,Domain,Brazil,BR,68,24,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-06 03:44:50,login-verify-update.com,Domain,Netherlands,NL,89,61,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-06 06:55:50,login-verify-update.com,Domain,Russia,RU,18,6,Medium,T1059,Command and Scripting Interpreter,Execution,Monitored
-2026-08-06 10:00:50,login-verify-update.com,Domain,Russia,RU,72,0,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-06 11:40:50,38f62325e4657372238511d481bce2f54945f55cfb9edfd1b4a2242d8798789c,File Hash (SHA256),Germany,DE,75,19,High,T1110,Brute Force,Credential Access,Investigating
-2026-08-06 12:49:50,c10e54191b24fbe5d9faaa8a020f67213adc1b0e003da4d3e38567ab618ece78,File Hash (SHA256),China,CN,50,6,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-06 13:11:50,27.246.1.76,IPv4,China,CN,1,67,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
-2026-08-06 14:37:50,secure-account-auth.net,Domain,Russia,RU,22,32,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-06 15:19:50,update-m365-portal.org,Domain,United Kingdom,GB,0,12,High,T1110,Brute Force,Credential Access,Investigating
-2026-08-06 16:20:50,1fcffa9ff53ef702fd8386859db496e5e9f47393eccdb2df973e1009d8b29df2,File Hash (SHA256),United States,US,7,0,Low,T1059,Command and Scripting Interpreter,Execution,Closed / False Positive
-2026-08-06 17:12:50,122.107.193.143,IPv4,Russia,RU,73,19,High,T1110,Brute Force,Credential Access,Investigating
-2026-08-06 20:23:50,login-verify-update.com,Domain,Brazil,BR,62,46,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-06 21:12:50,login-verify-update.com,Domain,Germany,DE,76,66,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-06 22:03:50,update-m365-portal.org,Domain,Brazil,BR,59,53,Critical,T1566,Phishing,Initial Access,Active Investigation
-2026-08-06 22:38:50,bad-actor-c2.xyz,Domain,China,CN,51,62,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-07 00:56:50,11.135.90.241,IPv4,Iran,IR,35,65,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
-2026-08-07 01:01:50,secure-account-auth.net,Domain,Germany,DE,26,46,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
-2026-08-07 02:19:50,188.188.179.253,IPv4,Russia,RU,98,68,Critical,T1110,Brute Force,Credential Access,Active Investigation
-2026-08-07 05:34:50,bad-actor-c2.xyz,Domain,Germany,DE,72,65,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
-2026-08-07 13:18:50,101.73.61.117,IPv4,Netherlands,NL,77,19,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-07 14:39:50,207.12.71.35,IPv4,United States,US,69,53,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-07 15:06:50,148.85.49.121,IPv4,United Kingdom,GB,86,57,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-07 16:47:50,171.70.190.87,IPv4,Iran,IR,98,15,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-07 17:07:50,02a7a112a57f6587995f94fbb1f2e23abc3fbaccc2dedfcf22466a45b24f4c02,File Hash (SHA256),United Kingdom,GB,80,61,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-07 17:19:50,79de0afff9f678cd5cef1bc20a502d74ee6b4a48d9e9cf2b3b7a7a87b156599d,File Hash (SHA256),Brazil,BR,93,42,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-07 18:08:50,152.199.181.210,IPv4,United States,US,89,16,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-07 19:48:50,162.221.243.250,IPv4,Brazil,BR,66,40,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-07 20:32:50,update-m365-portal.org,Domain,United Kingdom,GB,87,31,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-07 22:21:50,login-verify-update.com,Domain,United States,US,40,31,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-07 22:58:50,d4a62cdb5ef56efb87491f8ea9ad1ad3457a4ae4ae912a2ebe9392eb46317d78,File Hash (SHA256),Iran,IR,39,57,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-08 02:22:50,login-verify-update.com,Domain,United States,US,100,54,Critical,T1566,Phishing,Initial Access,Active Investigation
-2026-08-08 02:40:50,bad-actor-c2.xyz,Domain,Netherlands,NL,26,75,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-08 03:09:50,login-verify-update.com,Domain,United States,US,66,45,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-08 04:22:50,149.103.6.123,IPv4,China,CN,43,56,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
-2026-08-08 07:18:50,90.58.246.31,IPv4,Iran,IR,95,63,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
-2026-08-08 07:31:50,4.129.239.10,IPv4,Netherlands,NL,61,46,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-08 08:58:50,secure-account-auth.net,Domain,Netherlands,NL,56,0,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-08 11:19:50,bad-actor-c2.xyz,Domain,Brazil,BR,56,72,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-08 11:25:50,201.66.50.5,IPv4,United States,US,69,75,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-08 12:12:50,19.188.18.218,IPv4,United States,US,94,51,Critical,T1110,Brute Force,Credential Access,Active Investigation
-2026-08-08 13:26:50,8328cc33247dbe46aef7b6897f0f5c545e459a7671d7636c5290e45861143a72,File Hash (SHA256),United States,US,70,56,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-08 13:37:50,8.144.193.249,IPv4,United States,US,29,13,High,T1071,Application Layer Protocol,Command and Control,Investigating
-2026-08-08 13:43:50,secure-account-auth.net,Domain,North Korea,KP,45,6,High,T1071,Application Layer Protocol,Command and Control,Investigating
-2026-08-08 13:56:50,166.130.253.240,IPv4,North Korea,KP,75,10,High,T1566,Phishing,Initial Access,Investigating
-2026-08-08 15:44:50,7548c364935e282b6ed5dd417d3ef8a7557ca5c3e929dee20a32dbede0f34512,File Hash (SHA256),United Kingdom,GB,44,66,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-08 19:06:50,ad52de7d5570c2ac8e51b30ff14e9ae8543015a14167e20b69554f684991ed91,File Hash (SHA256),United Kingdom,GB,51,6,High,T1071,Application Layer Protocol,Command and Control,Investigating
-2026-08-08 19:40:50,37a9999772b934ab2f4f2b48752a30cac9b3a6229e00b8f6384b49a5ade645fd,File Hash (SHA256),Netherlands,NL,100,4,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-08 19:58:50,73.222.17.150,IPv4,Iran,IR,47,4,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-08 20:49:50,202.190.208.115,IPv4,Iran,IR,12,32,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-09 01:57:50,bad-actor-c2.xyz,Domain,United Kingdom,GB,94,46,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-09 03:14:50,update-m365-portal.org,Domain,United Kingdom,GB,6,28,High,T1566,Phishing,Initial Access,Investigating
-2026-08-09 04:34:50,16.205.207.93,IPv4,Russia,RU,15,33,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-09 09:38:50,242bf2a29aef0e6234d327af02ce2fd4bffe5f7b5880090e9d5767f12aca2f07,File Hash (SHA256),Iran,IR,48,11,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-09 11:54:50,9e86f197e31331a3291cb941a0529a4c8ae4b4ddf9ada25bc733f8b84124efd1,File Hash (SHA256),United States,US,45,32,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
-2026-08-09 12:04:50,login-verify-update.com,Domain,Germany,DE,76,5,Critical,T1566,Phishing,Initial Access,Active Investigation
-2026-08-09 12:45:50,secure-account-auth.net,Domain,Russia,RU,95,56,Critical,T1566,Phishing,Initial Access,Active Investigation
-2026-08-09 12:51:50,login-verify-update.com,Domain,Iran,IR,80,43,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-09 15:19:50,login-verify-update.com,Domain,Netherlands,NL,88,14,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-09 16:19:50,secure-account-auth.net,Domain,Russia,RU,51,70,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-09 16:35:50,154.7.209.1,IPv4,Iran,IR,68,59,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-09 17:03:50,5a7501ee9ec9876818f50b1666562e78e8089ca5492f5cd15db5c99cb9991a9d,File Hash (SHA256),Russia,RU,59,67,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-09 17:19:50,77.146.207.122,IPv4,China,CN,99,59,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-09 17:27:50,852092b73fefb05fd03bb291af1ae5216f9ba90f6326fa1d089aeceb92a477a9,File Hash (SHA256),United Kingdom,GB,82,16,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-09 17:31:50,bad-actor-c2.xyz,Domain,North Korea,KP,96,31,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-09 17:53:50,aa65e88ad3c5731be79c7b22b10d2787b82ab1e559a78d1202bf99e05efe1c63,File Hash (SHA256),Germany,DE,9,10,Medium,T1059,Command and Scripting Interpreter,Execution,Monitored
-2026-08-09 18:19:50,68.242.55.58,IPv4,China,CN,12,0,Medium,T1071,Application Layer Protocol,Command and Control,Monitored
-2026-08-09 21:33:50,bad-actor-c2.xyz,Domain,United Kingdom,GB,55,51,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-09 21:57:50,bad-actor-c2.xyz,Domain,United States,US,13,8,Medium,T1110,Brute Force,Credential Access,Monitored
-2026-08-09 22:12:50,180.93.27.85,IPv4,North Korea,KP,100,32,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-09 23:01:50,192.78.104.43,IPv4,Germany,DE,96,41,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
-2026-08-10 00:05:50,49.223.226.217,IPv4,Iran,IR,80,51,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-10 01:44:50,fd0e21ec668f392ae270f349222b8aacd77719634307fe20f4af8873d94dcbcb,File Hash (SHA256),United Kingdom,GB,9,40,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-10 02:08:50,secure-account-auth.net,Domain,Russia,RU,42,59,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
-2026-08-10 02:56:50,login-verify-update.com,Domain,Brazil,BR,94,25,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-10 03:13:50,84.79.162.34,IPv4,China,CN,50,15,High,T1110,Brute Force,Credential Access,Investigating
-2026-08-10 03:53:50,117.80.198.180,IPv4,Iran,IR,49,14,High,T1110,Brute Force,Credential Access,Investigating
-2026-08-10 04:42:50,2baeb6b610eb1078d2cd999ff8d9f73f236b5858d37d76317393ab4aaf581551,File Hash (SHA256),Russia,RU,0,67,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-10 05:21:50,ed66c7d21d0cdd2df4ebb10974647ae578abfe35410f69d5e1cc89aaee549e48,File Hash (SHA256),Russia,RU,12,62,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-10 10:07:50,f76c8c6d34eadfd3d1e9ab4e7bb60c53c2ed16d3a4d103371e4c17be1e30cdae,File Hash (SHA256),Germany,DE,89,74,Critical,T1110,Brute Force,Credential Access,Active Investigation
-2026-08-10 11:37:50,login-verify-update.com,Domain,Brazil,BR,79,39,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
-2026-08-10 15:18:50,d53103d2bfee5d306020a1e9ec58f2341a90b0204a5dd721194938d753f226a3,File Hash (SHA256),Germany,DE,49,72,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
-2026-08-10 16:09:50,124.46.11.207,IPv4,North Korea,KP,55,57,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-10 19:07:50,33.24.152.24,IPv4,United States,US,27,63,Critical,T1071,Application Layer Protocol,Command and Control,Contained
-2026-08-10 19:30:50,login-verify-update.com,Domain,North Korea,KP,36,64,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-10 21:11:50,eed87db9f399cfd1ade13cfcb362570de248dff8b0a55077f754064ece10d1c4,File Hash (SHA256),China,CN,15,2,Medium,T1071,Application Layer Protocol,Command and Control,Monitored
-2026-08-10 21:21:50,bad-actor-c2.xyz,Domain,North Korea,KP,94,10,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-10 21:24:50,164.112.33.132,IPv4,Germany,DE,100,1,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
-2026-08-10 23:16:50,146.155.254.189,IPv4,Russia,RU,60,64,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-11 00:12:50,4fbd293ae893c5ca23d2962751579a502c6d29cc21106d21622cf6d22814f7c0,File Hash (SHA256),China,CN,24,10,Medium,T1059,Command and Scripting Interpreter,Execution,Monitored
-2026-08-11 01:16:50,cea162d2649a6afe6568cb3457e0d9650703a0f07b0218a4269e921a0c14a539,File Hash (SHA256),China,CN,18,67,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-11 02:35:50,440d09d8dc13349ffecf12ea132c379ec4fab7ed6b3600fc1a0af33b4bb83699,File Hash (SHA256),Iran,IR,47,64,Critical,T1110,Brute Force,Credential Access,Contained
-2026-08-11 04:00:50,a601b95b6e08e041bfd2f2c1f9c04534042382a0b166f7aa7b88f0426496729f,File Hash (SHA256),Brazil,BR,84,49,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
-2026-08-11 05:10:50,209.80.248.35,IPv4,United States,US,91,12,Critical,T1003,OS Credential Dumping,Credential Access,Contained
-2026-08-11 05:33:50,d927a3273322e61cc1f15e0be76c47f5752b1e982afe07894a7262a501b9c5a4,File Hash (SHA256),Netherlands,NL,84,31,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-11 06:25:50,bad-actor-c2.xyz,Domain,Brazil,BR,72,28,High,T1003,OS Credential Dumping,Credential Access,Investigating
-2026-08-11 07:44:50,ab540bde5992b3a4bf60ba9c37f6f0ee1f9840016259be160ce3d64aa4901190,File Hash (SHA256),United Kingdom,GB,84,51,Critical,T1566,Phishing,Initial Access,Contained
-2026-08-11 09:51:50,214.246.210.192,IPv4,North Korea,KP,65,61,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-03 14:26:41,152.195.65.16,IPv4,Germany,DE,56,67,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-03 15:38:41,45.116.197.117,IPv4,Iran,IR,47,42,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-03 15:50:41,85.178.183.210,IPv4,Germany,DE,9,23,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-03 17:06:41,secure-account-auth.net,Domain,North Korea,KP,96,0,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
+2026-08-03 18:28:41,33.190.2.46,IPv4,Germany,DE,43,54,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-03 20:53:41,secure-account-auth.net,Domain,Netherlands,NL,24,57,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-03 21:25:41,c6ee9d0e91dc03ee165f72c1831c0db50b4fe9eaa50530a53532d846a55b37fe,File Hash (SHA256),Netherlands,NL,33,49,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-03 21:57:41,85.69.254.250,IPv4,China,CN,68,31,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
+2026-08-03 23:19:41,56.195.214.12,IPv4,North Korea,KP,71,64,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-04 02:43:41,6ec6921382d334b27391511b828b028344489ec1da6b08c7ec669584b6e1659b,File Hash (SHA256),China,CN,25,73,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-04 03:36:41,bad-actor-c2.xyz,Domain,Germany,DE,43,29,High,T1110,Brute Force,Credential Access,Investigating
+2026-08-04 03:51:41,44.194.64.166,IPv4,Germany,DE,28,74,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
+2026-08-04 03:58:41,faaa99da0eac4b470141d6204b4abbb43a711ad5ba2d114327349eb8a436d827,File Hash (SHA256),Iran,IR,13,67,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-04 05:02:41,c40f3ee74d9f7e18bdacae061abcc95b9b434c8ce591d4ac1e4ff3632f451f53,File Hash (SHA256),Germany,DE,67,40,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-04 05:05:41,66.196.44.9,IPv4,United Kingdom,GB,98,56,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
+2026-08-04 05:37:41,5f81defd955ba32ea06d81d9b5110158f41bf15c6049ab6d584a91cd13b17f2d,File Hash (SHA256),Netherlands,NL,47,60,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
+2026-08-04 06:36:41,167.122.191.174,IPv4,United Kingdom,GB,1,3,Medium,T1071,Application Layer Protocol,Command and Control,Monitored
+2026-08-04 07:28:41,update-m365-portal.org,Domain,China,CN,47,6,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-04 11:28:41,da862864e3c7d44aa5d67d8464bc0dcc0ea421921dc52ce5fa7cb4d5e4138cd3,File Hash (SHA256),Netherlands,NL,28,63,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-04 15:23:41,beea8de837b0e309e855bae70c6fbf693923cd88e011f56650014b2d4985537a,File Hash (SHA256),Germany,DE,31,63,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-04 17:05:41,1ff0f22ad250c6e8b60efc4e196f4c0627c8230ce09bc5ec523d5edaed79fa14,File Hash (SHA256),Russia,RU,32,20,High,T1110,Brute Force,Credential Access,Investigating
+2026-08-04 17:32:41,d57c287a8d532b332402751043c12e769bc7dbc200c0a4dfd5012b93a390c8b6,File Hash (SHA256),Russia,RU,75,52,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
+2026-08-04 19:45:41,secure-account-auth.net,Domain,United States,US,35,26,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-04 21:25:41,secure-account-auth.net,Domain,North Korea,KP,71,12,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-04 22:10:41,bad-actor-c2.xyz,Domain,Netherlands,NL,13,55,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
+2026-08-04 22:35:41,13.147.77.30,IPv4,Iran,IR,33,60,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-04 22:48:41,bad-actor-c2.xyz,Domain,Russia,RU,52,0,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-04 22:55:41,186.112.247.144,IPv4,Netherlands,NL,75,11,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-04 23:22:41,812a0a334df72e9b2054c08a0ebb4c20e73e03a533abf412d8bf00b4a4bc1f26,File Hash (SHA256),Iran,IR,49,14,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-05 01:50:41,181.173.105.71,IPv4,Russia,RU,84,62,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-05 03:30:41,login-verify-update.com,Domain,Germany,DE,6,39,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-05 09:25:41,205.24.211.102,IPv4,China,CN,70,24,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-05 10:12:41,165.247.53.135,IPv4,Brazil,BR,65,65,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-05 11:48:41,update-m365-portal.org,Domain,Brazil,BR,37,20,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-05 12:01:41,login-verify-update.com,Domain,Russia,RU,21,35,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-05 12:25:41,14.193.113.143,IPv4,Netherlands,NL,20,57,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-05 15:49:41,update-m365-portal.org,Domain,China,CN,15,51,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-05 16:30:41,197443eadade07ddd7a72d21e7edd618b1561b99d190346bf8cc50af86b1b696,File Hash (SHA256),Russia,RU,24,72,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-05 17:48:41,update-m365-portal.org,Domain,Iran,IR,95,32,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-05 19:10:41,183.18.52.51,IPv4,Netherlands,NL,22,41,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-05 19:29:41,login-verify-update.com,Domain,United States,US,15,54,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-05 21:17:41,login-verify-update.com,Domain,China,CN,34,26,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-05 22:27:41,3b0d740e316dcbdad3b9948890d0f2f03dddc80eeb4a36ef84c4089be471400f,File Hash (SHA256),Netherlands,NL,38,2,Medium,T1059,Command and Scripting Interpreter,Execution,Monitored
+2026-08-06 01:09:41,427d28a711790faf031327118bf3d86507f0e0a961b9a16742b4515e2b6b37af,File Hash (SHA256),Netherlands,NL,69,31,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-06 02:30:41,56.76.30.82,IPv4,Netherlands,NL,81,1,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-06 07:16:41,173.222.74.153,IPv4,United Kingdom,GB,60,25,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-06 08:18:41,a9c0297a7595265ec3e8fb506710ab52b599d67170e6a315e2e8ed6a9cf473ba,File Hash (SHA256),Germany,DE,29,5,Medium,T1110,Brute Force,Credential Access,Monitored
+2026-08-06 11:13:41,41.231.124.110,IPv4,Netherlands,NL,99,10,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-06 19:25:41,91.53.226.17,IPv4,Netherlands,NL,7,53,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-06 19:53:41,857e0f9bf736072f9dec3fe02fe02bf0459e2a2538e84fd5f503b6ed7ccf3726,File Hash (SHA256),Germany,DE,94,42,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-06 21:58:41,login-verify-update.com,Domain,North Korea,KP,49,44,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-07 03:28:41,5.165.234.184,IPv4,Netherlands,NL,5,12,High,T1566,Phishing,Initial Access,Investigating
+2026-08-07 05:17:41,login-verify-update.com,Domain,Netherlands,NL,59,41,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-07 09:03:41,d407be256c44da7098728f481f6213ddcd6e9e59b18d6150c9e0e49cb33cbdbd,File Hash (SHA256),China,CN,44,18,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-07 09:32:41,586524c243adbbe1de008478505ee8fee0e5b86cb1065eda15f91d7267e2a1f2,File Hash (SHA256),Brazil,BR,8,9,Medium,T1059,Command and Scripting Interpreter,Execution,Monitored
+2026-08-07 10:47:41,58.16.181.178,IPv4,China,CN,29,64,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-07 10:56:41,bad-actor-c2.xyz,Domain,Iran,IR,42,19,High,T1110,Brute Force,Credential Access,Investigating
+2026-08-07 12:39:41,secure-account-auth.net,Domain,United Kingdom,GB,47,39,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-07 13:57:41,bad-actor-c2.xyz,Domain,Russia,RU,82,49,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-07 15:14:41,a2e3a0834f35ee444cdd832c49190ce51a8e99fd17e82ab9714728d25e91d9a7,File Hash (SHA256),Brazil,BR,46,48,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-07 15:15:41,8aabc1735e9791a50bb96520e8c221c57d65f6c17145628e474c23e7f11ed635,File Hash (SHA256),Iran,IR,53,46,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-07 15:40:41,update-m365-portal.org,Domain,United States,US,90,50,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-07 19:00:41,bad-actor-c2.xyz,Domain,United States,US,43,39,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-07 20:19:41,75c0c1f23f8426d768e1929dd1717e6cb51d53e7d04a2eeed640c4c87b3c13c3,File Hash (SHA256),Brazil,BR,43,3,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-07 21:32:41,101.32.91.46,IPv4,Brazil,BR,57,36,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-07 22:34:41,secure-account-auth.net,Domain,Russia,RU,55,49,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-07 23:51:41,login-verify-update.com,Domain,United Kingdom,GB,18,47,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
+2026-08-07 23:54:41,secure-account-auth.net,Domain,United Kingdom,GB,2,12,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-08 01:08:41,7535bd31ac4de9ef62cc92a2f397e19b18f1b149aba185a453867a8fa978245a,File Hash (SHA256),United Kingdom,GB,59,19,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-08 03:00:41,d7ff840f9b23226cd7ff001002cbb2ac216eb6e3f90deb4d27675025c9e11d70,File Hash (SHA256),Iran,IR,49,38,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-08 04:08:41,ba1f928084c8f7d17df009ec63dedfa83ea6cb5130a930ffe77ed5faa029529d,File Hash (SHA256),Russia,RU,99,28,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-08 05:14:41,update-m365-portal.org,Domain,Netherlands,NL,34,66,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-08 13:25:41,30e2ff5d27065fd968ff59213b49495c17e4651d24ec15800c7dfd5bb7cd307d,File Hash (SHA256),Iran,IR,85,42,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-08 15:17:41,secure-account-auth.net,Domain,United States,US,61,16,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-08 17:52:41,2493d72e65c8e01888b19a2ecb2081f962d49b32c665c2c4c60f15f918d32e46,File Hash (SHA256),Brazil,BR,38,12,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-08 20:11:41,update-m365-portal.org,Domain,North Korea,KP,85,11,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-08 20:38:41,db648f67d1af36639c3618087d4e48ec2bdf0049d9b78ee935468e233fb13482,File Hash (SHA256),Brazil,BR,8,6,Medium,T1003,OS Credential Dumping,Credential Access,Monitored
+2026-08-08 21:40:41,102.21.12.69,IPv4,Germany,DE,87,69,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-08 22:02:41,175.219.175.159,IPv4,Brazil,BR,73,22,High,T1566,Phishing,Initial Access,Investigating
+2026-08-08 22:31:41,105.185.47.177,IPv4,Netherlands,NL,15,14,High,T1566,Phishing,Initial Access,Investigating
+2026-08-08 23:07:41,311f02f153972aaf23928d8f7cf127c72727bf4bb20366f0f9c7a0f4099521a9,File Hash (SHA256),Netherlands,NL,48,52,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-09 00:38:41,login-verify-update.com,Domain,Brazil,BR,75,42,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-09 02:37:41,75d7220aad034ca9ef73fb17bbf7ed59e23dc9cc441a12048a6cfa7dec9e6354,File Hash (SHA256),United States,US,81,46,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-09 02:51:41,0485c34a2a21c63dc51e8323e5102bf1c19ec81778ed579abe9fd28d29c295f9,File Hash (SHA256),North Korea,KP,91,67,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-09 03:00:41,107.191.205.246,IPv4,United Kingdom,GB,84,2,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-09 04:22:41,747c3b31a3e79fd312fc5a530370a5a943620d30a6b880990db2356b42feb866,File Hash (SHA256),China,CN,23,6,Medium,T1059,Command and Scripting Interpreter,Execution,Monitored
+2026-08-09 05:45:41,d7bae86bcef16d2cc6f217a3705d507c7af4ff70ac4525ceba8f041e0811a334,File Hash (SHA256),Netherlands,NL,27,74,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-09 06:17:41,71.85.212.197,IPv4,Russia,RU,24,11,High,T1566,Phishing,Initial Access,Investigating
+2026-08-09 07:43:41,secure-account-auth.net,Domain,North Korea,KP,42,3,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-09 08:58:41,bad-actor-c2.xyz,Domain,North Korea,KP,70,33,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-09 09:17:41,b2a20fda114e4f2b57b3d226cbd4ea30cedd5536bb0b98beb01d9c42a16f5fee,File Hash (SHA256),Netherlands,NL,98,49,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-09 09:41:41,bad-actor-c2.xyz,Domain,China,CN,93,71,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-09 11:10:41,76780f45cb35c05fb92cd7ccc096073ab1adc16ea81f206f1570c79c0f67c1a6,File Hash (SHA256),China,CN,93,29,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-09 12:23:41,secure-account-auth.net,Domain,Brazil,BR,56,20,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-09 13:24:41,38.214.29.188,IPv4,China,CN,23,47,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-09 13:32:41,104.143.56.247,IPv4,United Kingdom,GB,22,65,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-09 14:32:41,login-verify-update.com,Domain,Russia,RU,96,20,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-09 14:36:41,125.197.204.241,IPv4,United Kingdom,GB,81,24,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-09 15:57:41,204.71.228.114,IPv4,North Korea,KP,82,62,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-09 16:27:41,120002b74866c8f6a230e0012e67e4c26897b180e07caebde4cda8068f49ebe7,File Hash (SHA256),North Korea,KP,45,16,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-09 17:17:41,54.85.56.224,IPv4,Germany,DE,67,3,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-09 18:27:41,bce451b98d7f11e7a7a8d528bd392f6bc5d2353b9970e255fd2fe873665a8c0d,File Hash (SHA256),Russia,RU,22,21,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-09 19:18:41,189.138.48.80,IPv4,Netherlands,NL,83,33,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-09 21:15:41,0658c20a34a54cd77204210c596b11a07ea22e6a7cc4229efa1460610ce18d5b,File Hash (SHA256),China,CN,55,18,High,T1110,Brute Force,Credential Access,Investigating
+2026-08-09 21:42:41,54.172.18.114,IPv4,Germany,DE,2,74,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-09 22:27:41,fad0cbf26129d4935dcc0798a6617e82ed64ca492b5bea1bf91828fb2d42b8f7,File Hash (SHA256),Netherlands,NL,63,18,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-09 22:34:41,691c57153063031649622428700becaef438a93ce6d56028605d71c3867178cd,File Hash (SHA256),Netherlands,NL,57,10,High,T1110,Brute Force,Credential Access,Investigating
+2026-08-09 22:38:41,202.127.121.162,IPv4,China,CN,54,36,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-10 00:32:41,bad-actor-c2.xyz,Domain,United States,US,73,19,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-10 01:57:41,1763accc0c89123dcbe2e5578b777e08a08ae25171b7fbc8655e6076fe8549c5,File Hash (SHA256),Netherlands,NL,46,8,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-10 04:44:41,155.46.241.90,IPv4,Iran,IR,20,57,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-10 07:27:41,f191dc1013c554a926c22cdfea92d54909fd12d09e1de941599263363895f560,File Hash (SHA256),United States,US,100,36,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-10 08:24:41,f658f1da5041883771ca8a86cdb855a94c365517ff56ba69386a15b9ed2820d2,File Hash (SHA256),China,CN,17,6,Medium,T1059,Command and Scripting Interpreter,Execution,Monitored
+2026-08-10 10:32:41,108.61.86.6,IPv4,North Korea,KP,91,26,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-10 11:05:41,secure-account-auth.net,Domain,Netherlands,NL,24,25,High,T1566,Phishing,Initial Access,Investigating
+2026-08-10 12:15:41,bad-actor-c2.xyz,Domain,Russia,RU,21,49,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-10 16:25:41,ebe00097c9cb6ea68a5ddd13375c7922b2bab27d99ac4123c633c8a4edb58cc4,File Hash (SHA256),United Kingdom,GB,41,53,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-10 19:14:41,update-m365-portal.org,Domain,United States,US,22,64,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-10 19:32:41,update-m365-portal.org,Domain,United Kingdom,GB,69,45,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
+2026-08-10 19:48:41,22.221.113.112,IPv4,Germany,DE,39,21,High,T1566,Phishing,Initial Access,Investigating
+2026-08-10 20:28:41,d5cd4809d40441b6755e2409750f653dcac28745f670d5e49426be6510065e7c,File Hash (SHA256),Germany,DE,35,51,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-10 21:55:41,89.224.162.59,IPv4,China,CN,51,32,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-10 22:40:41,759e461f36bf90c723533681eddddfb06acf72741b11239fc06317286d26910f,File Hash (SHA256),United States,US,99,46,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-10 23:25:41,94.21.34.220,IPv4,Brazil,BR,78,43,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-10 23:48:41,ba67f8a4ccef865a9156796aedc2e107e049c20298024e1b596fa74902065caa,File Hash (SHA256),Brazil,BR,17,30,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-11 00:07:41,186.215.50.160,IPv4,Netherlands,NL,38,26,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-11 00:27:41,login-verify-update.com,Domain,Netherlands,NL,67,19,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-11 00:56:41,106.38.169.15,IPv4,Iran,IR,93,0,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-11 01:05:41,35.142.44.232,IPv4,North Korea,KP,23,22,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-11 04:09:41,login-verify-update.com,Domain,China,CN,78,23,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-11 04:13:41,ed924326b0f4a1091af83a0fd037538c8091202dd1020428f6707a5844545aef,File Hash (SHA256),Iran,IR,57,6,High,T1566,Phishing,Initial Access,Investigating
+2026-08-11 06:25:41,123.128.98.91,IPv4,United States,US,33,69,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-11 07:23:41,2.88.242.224,IPv4,North Korea,KP,64,67,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-11 09:51:41,26.235.37.88,IPv4,Germany,DE,86,12,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-11 10:11:41,03e2ad49e09e0a12929971797ba1dca781fc5cecdbad972795f8bb54efe7c9b6,File Hash (SHA256),China,CN,47,24,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-11 11:07:41,update-m365-portal.org,Domain,Germany,DE,54,9,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-11 11:54:41,6db00303acefee7baccc74be84934cabe69827d5780bd097b0b07fc75dac0a5f,File Hash (SHA256),United States,US,5,27,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-11 13:34:41,51.169.236.238,IPv4,United Kingdom,GB,46,7,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-11 14:00:41,a3b12158f0f1cb80a0e6752fec097c6bca26f36b97003d166deef4ffe37b141b,File Hash (SHA256),China,CN,58,12,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-11 15:00:41,bad-actor-c2.xyz,Domain,Brazil,BR,88,9,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-11 17:28:41,update-m365-portal.org,Domain,Germany,DE,12,8,Medium,T1003,OS Credential Dumping,Credential Access,Monitored
+2026-08-11 18:16:41,3b768a9ee42c15d5f6e5c7bf8df12166363ba5fe763c6f9a6c2cd6f82cf0face,File Hash (SHA256),United States,US,57,37,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-11 18:22:41,bad-actor-c2.xyz,Domain,North Korea,KP,60,18,High,T1566,Phishing,Initial Access,Investigating
+2026-08-11 18:38:41,6fb5ed6c3c92bda0d8107e460af416f29c72bdbef2b16ec7e40de74183066327,File Hash (SHA256),Netherlands,NL,30,8,Medium,T1566,Phishing,Initial Access,Monitored
+2026-08-11 18:55:41,login-verify-update.com,Domain,United Kingdom,GB,98,71,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-11 19:26:41,39.208.126.121,IPv4,China,CN,22,25,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-11 22:16:41,9c9281c128aa4ff4bbeb45cf7799427dcebedb186b59538a857d3a80a29a3608,File Hash (SHA256),United Kingdom,GB,65,24,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-11 22:34:41,update-m365-portal.org,Domain,North Korea,KP,33,2,Medium,T1059,Command and Scripting Interpreter,Execution,Monitored
+2026-08-11 23:11:41,login-verify-update.com,Domain,North Korea,KP,68,62,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-12 01:05:41,bb1559f8cadec3e7f6182cd84614063dced66e4f44b37d28d64c24645488f136,File Hash (SHA256),Netherlands,NL,0,4,Medium,T1110,Brute Force,Credential Access,Monitored
+2026-08-12 06:41:41,3e4e5c4793135fce1ed4bd06fdd0261d2dd0ce10f693648a99832f327811356f,File Hash (SHA256),China,CN,39,24,High,T1110,Brute Force,Credential Access,Investigating
+2026-08-12 07:34:41,secure-account-auth.net,Domain,China,CN,83,16,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-12 08:21:41,74.207.3.230,IPv4,United States,US,95,10,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-12 08:31:41,login-verify-update.com,Domain,Russia,RU,30,50,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-12 08:31:41,24.144.239.251,IPv4,Netherlands,NL,57,15,High,T1110,Brute Force,Credential Access,Investigating
+2026-08-12 10:07:41,82.91.20.162,IPv4,Iran,IR,93,29,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
+2026-08-12 11:03:41,4166ffe77e7ef9769736e5388fb0cfa1a0388be81d28e3f4378b7ccf9e297947,File Hash (SHA256),Brazil,BR,15,65,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-12 11:39:41,bad-actor-c2.xyz,Domain,Russia,RU,41,18,High,T1566,Phishing,Initial Access,Investigating
+2026-08-12 11:43:41,87.42.141.234,IPv4,Iran,IR,82,16,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-12 11:49:41,18260143e17627de62e3a3c31b3dfbc32e78e91bb396aa54d971bce2caf06ded,File Hash (SHA256),Germany,DE,13,5,Medium,T1059,Command and Scripting Interpreter,Execution,Monitored
+2026-08-12 13:06:41,209.217.27.219,IPv4,United States,US,82,56,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-12 16:12:41,secure-account-auth.net,Domain,Iran,IR,51,34,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-12 18:25:41,9b173f8e376e5af0e25bb0886240d51c0956ba8dfc9d32247ba7b150aa292427,File Hash (SHA256),United Kingdom,GB,84,60,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
+2026-08-12 20:41:41,675eeaf2330f92b94bcf21b719badc5bdac8050d07bac41e81a60be6443dd61a,File Hash (SHA256),Netherlands,NL,72,42,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-12 21:28:41,e2d871b3026221aa020d1273b1ee7549ce46b680b4ae01b588d028ffe826cbba,File Hash (SHA256),North Korea,KP,45,7,High,T1110,Brute Force,Credential Access,Investigating
+2026-08-12 22:01:41,login-verify-update.com,Domain,Netherlands,NL,21,62,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-12 23:32:41,161.22.249.209,IPv4,United Kingdom,GB,78,71,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-13 01:07:41,14.142.231.20,IPv4,China,CN,74,37,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-13 01:41:41,219.148.40.254,IPv4,Iran,IR,0,27,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-13 01:52:41,update-m365-portal.org,Domain,Iran,IR,13,38,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-13 02:10:41,37.37.70.230,IPv4,China,CN,74,1,High,T1566,Phishing,Initial Access,Investigating
+2026-08-13 05:39:41,177.43.51.47,IPv4,Netherlands,NL,41,71,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-13 05:50:41,update-m365-portal.org,Domain,United States,US,52,71,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-13 07:19:41,bad-actor-c2.xyz,Domain,Russia,RU,19,12,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-13 07:51:41,d7136fde7a2574003d7385a63aea7a6ab801f1bbf72362ca966f7a77fa30f2d3,File Hash (SHA256),United Kingdom,GB,40,7,Medium,T1003,OS Credential Dumping,Credential Access,Monitored
+2026-08-13 08:27:41,75.114.158.248,IPv4,Russia,RU,14,42,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-13 08:54:41,login-verify-update.com,Domain,United States,US,16,56,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-13 09:40:41,bad-actor-c2.xyz,Domain,Iran,IR,33,39,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-13 12:48:41,0e8c00ab72fbb011b03d4f156dd2d1aa29c5c3947b22c7d42ffa61b5548a94bd,File Hash (SHA256),Germany,DE,0,5,Medium,T1566,Phishing,Initial Access,Monitored
+2026-08-13 14:27:41,737ee4bcc15734955d1b3f90f08cae10787a5ce8b87d4484d2d28d91ccb22682,File Hash (SHA256),Iran,IR,100,45,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-13 14:48:41,update-m365-portal.org,Domain,Brazil,BR,10,57,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-13 15:13:41,aedb2d8515d854ead75aee89af98c61189f25a10d29193cbfab84e57d39323b0,File Hash (SHA256),Russia,RU,95,28,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-13 17:05:41,201.250.148.66,IPv4,Iran,IR,45,63,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-13 18:16:41,159.12.92.151,IPv4,Russia,RU,44,35,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-13 18:29:41,b79ba5a2fa6484c708433a9cd2795e0989ef806ceb05e000f0910769c8af4b71,File Hash (SHA256),Brazil,BR,75,40,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-13 19:40:41,4.90.159.248,IPv4,United States,US,77,6,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-13 21:23:41,00f250829ab20d6f5c6780c2ca28d84e94f6e5380184841e0d61e27a5d3c9686,File Hash (SHA256),China,CN,44,6,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-13 21:47:41,6d63e1f51c4a356c8d965f13b04aab47dd13d82de8958bd64e14c154ec1f307e,File Hash (SHA256),United Kingdom,GB,77,33,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-14 00:35:41,116.109.116.119,IPv4,United Kingdom,GB,99,2,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-14 03:42:41,3c49378ce02be55e6e21c530c3bdc65288bf1fb192c57ad5739fe698a63264f3,File Hash (SHA256),Russia,RU,51,29,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-14 03:46:41,70.6.180.116,IPv4,Netherlands,NL,67,37,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-14 04:25:41,ebfb68e9c479e0ffef2ea06dacf4893ea6a20fc71adc9ae4072b5df442d130f3,File Hash (SHA256),North Korea,KP,35,30,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-14 07:16:41,c7f6a785588b919534e17ed110052b1461a85faa1fd89ff4dd28f6ed072b66e1,File Hash (SHA256),Iran,IR,18,61,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-14 09:25:41,b25e716ce06b45e0932f0c787a2f6abefb08159e6c1b6bbed4176f7ff0a53a5e,File Hash (SHA256),Brazil,BR,77,19,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-14 11:28:41,f1a32bdbb7c286c89804417e9c9417f73be668f958ce709b5887aab4e17da9a6,File Hash (SHA256),China,CN,13,58,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-14 12:11:41,login-verify-update.com,Domain,United States,US,40,13,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-14 14:32:41,ef030c88b20619d343470d9f4628280d9f456d3c49a833f8097479b72ff424cf,File Hash (SHA256),Germany,DE,94,11,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-14 14:53:41,update-m365-portal.org,Domain,Germany,DE,81,72,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-14 14:56:41,bad-actor-c2.xyz,Domain,United States,US,30,58,Critical,T1110,Brute Force,Credential Access,Active Investigation
+2026-08-14 16:27:41,1a85ba79a8ab081a7fc86283326a36a08f2f2f61ef13b9f923d792b33c772cea,File Hash (SHA256),China,CN,99,58,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-14 16:37:41,bad-actor-c2.xyz,Domain,North Korea,KP,6,73,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-14 16:43:41,153150faa9735e0ebadad8399c28b71acd18d6f0eb404bc5e76cd351d9b7dd87,File Hash (SHA256),North Korea,KP,69,58,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-14 18:41:41,login-verify-update.com,Domain,United States,US,62,63,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-14 18:51:41,97.147.86.167,IPv4,China,CN,53,26,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-14 20:23:41,206.240.66.118,IPv4,China,CN,35,17,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-14 21:24:41,bad-actor-c2.xyz,Domain,Brazil,BR,93,6,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-14 21:28:41,108.224.19.212,IPv4,Iran,IR,58,26,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-14 22:51:41,8ef6d8f9fab9a5250459fa30ff069a9f1545d3b9c66e0232dfb885fc728f7783,File Hash (SHA256),Iran,IR,79,26,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-14 23:22:41,update-m365-portal.org,Domain,Iran,IR,10,39,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-15 00:48:41,update-m365-portal.org,Domain,Netherlands,NL,66,27,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-15 00:51:41,185.240.183.234,IPv4,Brazil,BR,63,26,High,T1566,Phishing,Initial Access,Investigating
+2026-08-15 00:59:41,5a585b29d28680ff5d8f2c24087e15bf6b826cdbe62f5188e9f8540c5d0adec8,File Hash (SHA256),United States,US,96,50,Critical,T1071,Application Layer Protocol,Command and Control,Active Investigation
+2026-08-15 03:01:41,be87de6f4a76f94b279c1eab1cac4bafcb4dbb1fd4df530c3f009a3414ab8128,File Hash (SHA256),United Kingdom,GB,12,5,Medium,T1071,Application Layer Protocol,Command and Control,Monitored
+2026-08-15 03:05:41,215.131.106.197,IPv4,United States,US,28,34,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
+2026-08-15 04:33:41,5738a213fe90cce5dda8a55ba48474dcbde5c525664346096fb868dcd71d57ca,File Hash (SHA256),United States,US,11,14,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-15 09:39:41,update-m365-portal.org,Domain,China,CN,56,54,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-15 11:51:41,secure-account-auth.net,Domain,United Kingdom,GB,54,65,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-15 13:54:41,2df2790925189ece84382cabeb16cd953e1b6afb35b32989b445805d79440cdf,File Hash (SHA256),Brazil,BR,76,65,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-15 14:19:41,9c7fa477835870a005251d959fa65bd7ebb31ffe5c74d4f0ab60e8084e878314,File Hash (SHA256),North Korea,KP,37,42,Critical,T1003,OS Credential Dumping,Credential Access,Active Investigation
+2026-08-15 14:26:41,216.150.179.195,IPv4,Brazil,BR,26,23,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-15 18:44:41,195.124.44.78,IPv4,China,CN,2,66,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-15 19:04:41,bad-actor-c2.xyz,Domain,United Kingdom,GB,45,31,Critical,T1566,Phishing,Initial Access,Active Investigation
+2026-08-16 00:11:41,92.63.231.78,IPv4,Brazil,BR,67,23,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-16 05:21:41,be950a46e7e25076899e7ec9ebc38b1b90bf68b764f10a949dac4a4521f818fc,File Hash (SHA256),United Kingdom,GB,32,19,High,T1059,Command and Scripting Interpreter,Execution,Investigating
+2026-08-16 05:37:41,201.58.220.216,IPv4,China,CN,75,11,High,T1110,Brute Force,Credential Access,Investigating
+2026-08-16 06:35:41,107.172.243.62,IPv4,United States,US,16,34,Critical,T1059,Command and Scripting Interpreter,Execution,Active Investigation
+2026-08-16 06:45:41,33.68.31.105,IPv4,Netherlands,NL,31,18,High,T1071,Application Layer Protocol,Command and Control,Investigating
+2026-08-16 07:14:41,secure-account-auth.net,Domain,North Korea,KP,14,36,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-16 08:06:41,18dbac1475628b614603774fbdaa98f1a304ac0474b3352bb49909a5a20c9400,File Hash (SHA256),Netherlands,NL,82,31,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-16 08:50:41,update-m365-portal.org,Domain,China,CN,11,1,Medium,T1003,OS Credential Dumping,Credential Access,Monitored
+2026-08-16 10:05:41,109.92.44.141,IPv4,United Kingdom,GB,52,34,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-16 10:46:41,77.21.238.83,IPv4,United States,US,13,1,Medium,T1071,Application Layer Protocol,Command and Control,Monitored
+2026-08-16 10:58:41,136.87.23.157,IPv4,Russia,RU,13,55,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-16 11:43:41,110.191.33.76,IPv4,United Kingdom,GB,87,22,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-16 14:44:41,178.79.119.64,IPv4,Germany,DE,71,62,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-16 15:38:41,update-m365-portal.org,Domain,Russia,RU,45,45,Critical,T1071,Application Layer Protocol,Command and Control,Contained
+2026-08-16 15:52:41,login-verify-update.com,Domain,North Korea,KP,44,44,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-16 19:17:41,64.68.115.71,IPv4,China,CN,85,18,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-16 19:29:41,update-m365-portal.org,Domain,China,CN,22,63,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-16 20:44:41,4d3050d7a120e9758841e3efd9e186e36e125d220e315b5f6725b6ddfd94c76d,File Hash (SHA256),Netherlands,NL,39,56,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-16 20:57:41,bad-actor-c2.xyz,Domain,United States,US,29,41,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-16 23:52:41,105.176.229.64,IPv4,United States,US,53,31,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-17 00:38:41,login-verify-update.com,Domain,North Korea,KP,24,69,Critical,T1110,Brute Force,Credential Access,Contained
+2026-08-17 01:27:41,47035d07f3bdc68b0d24f149cc9ffbdb69176552872acb15339a526ceaadd7cb,File Hash (SHA256),Netherlands,NL,29,3,Medium,T1110,Brute Force,Credential Access,Monitored
+2026-08-17 03:30:41,9b7cf781314e6264b87b7251c6f6af70241104c8b9e7b1ed2d0505c3c52d6391,File Hash (SHA256),Netherlands,NL,66,9,High,T1566,Phishing,Initial Access,Investigating
+2026-08-17 04:08:41,75.213.213.251,IPv4,Iran,IR,93,55,Critical,T1566,Phishing,Initial Access,Contained
+2026-08-17 04:46:41,login-verify-update.com,Domain,North Korea,KP,73,14,High,T1003,OS Credential Dumping,Credential Access,Investigating
+2026-08-17 07:51:41,19319882fe1158664431a4e96eea62ed8ad5869310621bf8e2fd4d6ba9d1b04c,File Hash (SHA256),China,CN,100,32,Critical,T1003,OS Credential Dumping,Credential Access,Contained
+2026-08-17 08:38:41,84.107.231.16,IPv4,North Korea,KP,46,69,Critical,T1059,Command and Scripting Interpreter,Execution,Contained
+2026-08-17 09:08:41,5b9cc6e7a344515786aee866c05a0fc53586a668f6ab5e4d3f183902290e722c,File Hash (SHA256),Iran,IR,49,29,High,T1566,Phishing,Initial Access,Investigating
